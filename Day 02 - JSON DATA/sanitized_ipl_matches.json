@@ -1,0 +1,24 @@
+[
+    {
+        "score": {
+            "Mumbai Indians": 178,
+            "Chennai Super Kings": 182
+        },
+        "winner": "Chennai Super Kings",
+        "player_of_match": "REDACTED",
+        "team1": "M*u*m*b*a*i* I*n*d*i*a*n*s*",
+        "match_id": 101,
+        "team2": "C*h*e*n*n*a*i* S*u*p*e*r* K*i*n*g*s*"
+    },
+    {
+        "score": {
+            "Delhi Capitals": 190,
+            "Royal Challengers Bangalore": 200
+        },
+        "winner": "Royal Challengers Bangalore",
+        "player_of_match": "REDACTED",
+        "team1": "R*o*y*a*l* C*h*a*l*l*e*n*g*e*r*s* B*a*n*g*a*l*o*r*e*",
+        "match_id": 102,
+        "team2": "D*e*l*h*i* C*a*p*i*t*a*l*s*"
+    }
+]
